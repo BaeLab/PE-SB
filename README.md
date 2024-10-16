@@ -1,5 +1,6 @@
 # PE-SB
-For detail, see our manuscript : [AI-generated small binder improves prime editing](https://doi.org/10.1101/2024.09.11.612443)
+- For detail, see our manuscript : [AI-generated small binder improves prime editing](https://doi.org/10.1101/2024.09.11.612443)
+- [BAE Lab website](https://sites.google.com/view/baelab/)
 
 ### 1. Generate 'Binder Protein' easily via Google Colab without Local GPU.
 - [BAELAB_RFdiffusion_batch_process.ipynb](https://colab.research.google.com/github/BaeLab/PE-SB/blob/main/BAELAB_RFdiffusion_batch_process.ipynb) - Run BAELAB batch code for RFdiffusion to generate SB(small binder) in Google Colab.
