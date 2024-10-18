@@ -475,7 +475,7 @@ while ranknumber < topranknumber && j<NumberofDesign
                 text(plddts(sorted_index(j)),i_paes(sorted_index(j)),num2str(ranknumber),'FontSize',14);
             end
 
-            if useAF3competitionfiles == 'y' && ranktext_on == 'y'
+            if useAF3competitionfiles == 'y'
                 if ranktext_on == 'y'
                     figure(102);
                     subplot(ax102);
